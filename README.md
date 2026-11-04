@@ -16,6 +16,6 @@ Python · SQL · Power BI · Pandas · scikit-learn · Streamlit
 
 ## Contact
 
-- Email: patricia.felisca@student.umn.ac.id
-       : feliscaclarrisya@gmail.com
+- Portfolio: https://feliscaclarrisya-sys.github.io/felisca-clarrisya-portfolio/
+- Email: feliscaclarrisya@gmail.com
 - LinkedIn: [patricia-felisca-clarrisya](https://www.linkedin.com/in/patricia-felisca-clarrisya-5a845a3b0)
