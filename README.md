@@ -9,7 +9,8 @@ Fifth-semester Information Systems student at Universitas Multimedia Nusantara, 
 Python · SQL · Power BI · Pandas · scikit-learn · Streamlit
 
 ## Projects
-- - [Publication Data Warehouse](https://github.com/feliscaclarrisya-sys/publication-warehouse-powerbi) — star schema, Power Query, and Power BI dashboard for faculty publication performance (Q1–Q4)
+
+- [Publication Data Warehouse](https://github.com/feliscaclarrisya-sys/publication-warehouse-powerbi) — star schema, Power Query, and Power BI dashboard for faculty publication performance (Q1–Q4)
 - [Lifestyle Disease Risk](https://github.com/feliscaclarrisya-sys/lifestyle-disease-risk) — logistic regression on lifestyle indicators, with a Streamlit risk checker
 - [Child Stunting and Socioeconomic Factors](https://github.com/feliscaclarrisya-sys/child-stunting-socioeconomic) — analysis of socioeconomic factors related to child stunting risk
 
