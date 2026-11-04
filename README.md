@@ -1,7 +1,7 @@
 # Patricia Felisca Clarrisya
 
 Fifth-semester Information Systems student at Universitas Multimedia Nusantara, focusing on data analysis, business intelligence, and machine learning.
-Portfolio: https://feliscaclarrisya-sys.github.io/felisca-clarrisya-portfolio/ 
+
 **GPA:** 3.78 / 4.00
 
 ## Skills
