@@ -1,16 +1,22 @@
-## Hi there 👋
+# Patricia Felisca Clarrisya
 
-<!--
-**feliscaclarrisya-sys/feliscaclarrisya-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fifth-semester Information Systems student at Universitas Multimedia Nusantara, focusing on data analysis, business intelligence, and machine learning.
 
-Here are some ideas to get you started:
+**GPA:** 3.78 / 4.00
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+Python · SQL · Power BI · Pandas · scikit-learn · Streamlit
+
+## Projects
+
+- ## Projects
+- 
+- Publication Data Warehouse — star schema, Power Query, and Power BI
+- Lifestyle Disease Risk — logistic regression and Streamlit
+- Child Stunting and Socioeconomic Factors — socioeconomic analysis of stunting risk
+
+## Contact
+
+- Email: patricia.felisca@student.umn.ac.id
+- LinkedIn: [patricia-felisca-clarrisya](https://www.linkedin.com/in/patricia-felisca-clarrisya-5a845a3b0)
